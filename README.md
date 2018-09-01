@@ -32,7 +32,7 @@
 
 后台截图
 
-
+![image](https://github.com/hexiaochun/hc_step/blob/master/WX20180901-151324%402x.png)
 
 
 前端截图
